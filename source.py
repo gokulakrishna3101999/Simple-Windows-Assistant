@@ -95,7 +95,7 @@ if __name__ == "__main__":
             speak('i love you too')
 
         elif 'open editor' in query:
-            codePath = "C:\\Users\\pavithra\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+            codePath = "C:\\Users\\username\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)
 
         elif 'email to me' in query:
